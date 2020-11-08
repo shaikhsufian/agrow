@@ -1,0 +1,20 @@
+body {
+    background-image:url("agriculture.jpg");
+    background-size: cover;
+}
+
+.ourGoal {
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 18px;
+    padding-left: 3%;
+    padding-right: 3%;
+    opacity: 100%;
+}
+
+.box {
+    background-color: black;
+    opacity: 40%;
+    border-radius: 20px;
+    margin-top: 10%;
+}
